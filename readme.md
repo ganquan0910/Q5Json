@@ -21,3 +21,4 @@ Others
 You can find more information by visiting:
 
  - http://blog.linux4us.org/2013/09/05/parse-json-with-qjson-in-qt5/
+ - http://blog.linux4us.org/2013/09/07/qjson-vs-rapidjson-vs-json-parse/
